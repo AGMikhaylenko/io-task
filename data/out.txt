@@ -1,0 +1,81 @@
+ВКР
+    1.Комментарии.docx
+    2.Требования к подготовке ВКР бакалавров.docx
+|----ScreenShots
+        1.api levels.png
+        2.BreakDialog.jpg
+        3.Dialog_break.jpg
+        4.Dialog_contacts.jpg
+        5.Dialog_edit_task.jpg
+        6.Dialog_edit_workday.jpg
+        7.Dialog_new_nps.jpg
+        8.Dialog_new_workday.jpg
+        9.Dialog_promo.jpg
+        10.Dialog_reclamation.jpg
+        11.Dialog_show_task.jpg
+        12.FloatingActionButton.jpg
+        13.Fragment_home.jpg
+        14.Fragment_knowledge.jpg
+        15.Fragment_list_nps.jpg
+        16.Fragment_nps.jpg
+        17.Fragment_tasks.jpg
+        18.Fragment_timesheet.jpg
+        19.Login_example.jpg
+        20.Login_form.jpg
+        21.Notification.jpg
+        22.Studio.png
+    |----HomeFragment
+            1.large.png
+            2.normal.png
+            3.res.png
+            4.small.png
+            5.xlarge.png
+        |----Test
+                1.text1.txt
+        |----Test 2
+                1.text2.txt
+|----ScreenShots с отметками
+        1.Dialog_break.jpg
+        2.Dialog_contacts.jpg
+        3.Dialog_edit_task.jpg
+        4.Dialog_edit_workday.jpg
+        5.Dialog_new_nps.jpg
+        6.Dialog_new_workday.jpg
+        7.Dialog_promo.jpg
+        8.Dialog_reclamation.jpg
+        9.Dialog_show_task.jpg
+        10.Fragment_home.jpg
+        11.Fragment_knowledge.jpg
+        12.Fragment_list_nps.jpg
+        13.Fragment_nps.jpg
+        14.Fragment_tasks.jpg
+        15.Fragment_timesheet.jpg
+        16.Login_form.jpg
+        17.Main_activity.jpg
+|----Для презентации
+        1.promo_dm.mp4
+|----Пример
+        1.АННОТАЦИЯ.docx
+        2.ДИПЛОМ.docx
+        3.ДИПЛОМ_Пример.docx
+        4.Презентация.pptx
+        5.РЕЧЬ_Пример.docx
+|----Теория и материалы
+        1.ВКР.docx
+        2.Дежурный Менеджер (функ.doc
+        3.Доп. Теория.docx
+        4.Использование SDK Firebase.docx
+        5.Книга1.xlsx
+        6.Особенности Android.docx
+        7.Постановка задачи.docx
+        8.Презентация.txt
+        9.Приложение.pptx
+        10.Специальны раздел.docx
+        11.Список литературы.txt
+        12.Теория для ВКР.docx
+        13.Экономико-организационный раздел.docx
+|----Финал
+        1.~$плом_Михайленко.docx
+        2.Михайленко_диплом.docx
+        3.Презентация.pptx
+        4.Речь.docx
